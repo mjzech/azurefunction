@@ -1,2 +1,2 @@
 # azurefunction
-testing
+tested
